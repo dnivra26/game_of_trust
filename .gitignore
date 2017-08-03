@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+build/
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/tactical/.DS_Store
+engine.iml
+engine.ipr
+engine.iws
+/out/
+classes/
+src/main/main.iml
+src/test/test.iml
+*.rdb
+.gradletasknamecache
